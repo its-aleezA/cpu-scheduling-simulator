@@ -24,10 +24,10 @@ This project simulates classic CPU scheduling algorithms and prints process exec
 ## 🚀 How to Run
 
 ### 🧱 Build:
-g++ code/cpu_scheduler.cpp -o cpu_scheduler
+        g++ code/cpu_scheduler.cpp -o cpu_scheduler
 
 ### ▶️ Execute:
-./cpu_scheduler
+        ./cpu_scheduler
 
 ---
 
@@ -41,14 +41,19 @@ Displays:
 
 ## 🖼️ Demo
 
+### First Come First Serve
 ![FCFS](images/fcfs.jpg)
 
+### Priority Non Preemptive
 ![Priority Non Preemptive](images/priority_nonpreemptive.jpg)
 
+### Priority Preemptive
 ![Priority Preemptive](images/priority_preemptive.jpg)
 
+### ShortestJob First Non Preemptive
 ![SJF Non Preemptive](images/sjf_nonpreemptive.jpg)
 
+### ShortestJob First Preemptive
 ![SJF Preemptive](images/sjf_preemptive.jpg)
 
 ---
