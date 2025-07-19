@@ -7,9 +7,9 @@ This project simulates classic CPU scheduling algorithms and prints process exec
 ## ⚙️ Features
 
 - Implements the following algorithms:
-  - 🔹 First-Come, First-Served (FCFS)
-  - 🔹 Shortest Job First (SJF) — Preemptive & Non-Preemptive
-  - 🔹 Priority Scheduling — Preemptive & Non-Preemptive
+  - First-Come, First-Served (FCFS)
+  - Shortest Job First (SJF) — Preemptive & Non-Preemptive
+  - Priority Scheduling — Preemptive & Non-Preemptive
 - Auto-generates burst times and accepts custom priority inputs
 - Prints formatted process tables with:
   - Arrival Time
