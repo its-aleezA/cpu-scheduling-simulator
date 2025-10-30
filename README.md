@@ -123,19 +123,19 @@ The simulator calculates and displays:
 ## 📸 Demo
 
 ### First Come First Serve
-![FCFS](images/fcfs.jpg)
+![FCFS](images/fcfs_ui.jpg)
 
 ### Priority Non Preemptive
-![Priority Non Preemptive](images/priority_nonpreemptive.jpg)
+![Priority Non Preemptive](images/priority_nonpreemptive_ui.jpg)
 
 ### Priority Preemptive
-![Priority Preemptive](images/priority_preemptive.jpg)
+![Priority Preemptive](images/priority_preemptive_ui.jpg)
 
 ### ShortestJob First Non Preemptive
-![SJF Non Preemptive](images/sjf_nonpreemptive.jpg)
+![SJF Non Preemptive](images/sjf_nonpreemptive_ui.jpg)
 
 ### ShortestJob First Preemptive
-![SJF Preemptive](images/sjf_preemptive.jpg)
+![SJF Preemptive](images/sjf_preemptive_ui.jpg)
 
 ---
 
