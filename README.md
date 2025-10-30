@@ -122,6 +122,8 @@ The simulator calculates and displays:
 
 ## 📸 Demo
 
+![Demo GIF](images/demo.gif)
+
 ### First Come First Serve
 ![FCFS](images/fcfs_ui.jpg)
 
