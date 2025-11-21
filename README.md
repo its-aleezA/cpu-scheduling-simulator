@@ -1,4 +1,4 @@
-# 🎮 Arcade Process Scheduler
+# 🎮 ChronoCore: Arcade Process Scheduler
 
 A retro-styled CPU scheduling simulator that visualizes five different process scheduling algorithms with a 90s arcade aesthetic. Built with C++ backend and HTML/CSS/JavaScript frontend.
 
